@@ -23,3 +23,6 @@ public interface RetrofitServiceInterface {
 3. Llamar a este servicio de manera asincrónica.
 
 ---
+
+Acá hay mas info
+https://udinic.wordpress.com/2012/07/30/a-festivus-for-the-rest-of-us/#more-291
